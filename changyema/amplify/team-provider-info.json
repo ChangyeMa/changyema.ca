@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-changyema-dev-175922-authRole",
+      "UnauthRoleArn": "arn:aws:iam::211123992910:role/amplify-changyema-dev-175922-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::211123992910:role/amplify-changyema-dev-175922-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-changyema-dev-175922-deployment",
+      "UnauthRoleName": "amplify-changyema-dev-175922-unauthRole",
+      "StackName": "amplify-changyema-dev-175922",
+      "StackId": "arn:aws:cloudformation:us-east-2:211123992910:stack/amplify-changyema-dev-175922/ae2b1e80-4667-11ec-a1e5-02e52a858ff0",
+      "AmplifyAppId": "d3fv7ku5yq9xx8",
+      "AuthTriggerTemplateURL": "https://s3.amazonaws.com/amplify-changyema-dev-175922-deployment/amplify-cfn-templates/auth/auth-trigger-cloudformation-template.json"
+    },
+    "categories": {
+      "auth": {
+        "changyemab6d0d795b6d0d795": {}
+      },
+      "function": {
+        "changyemab6d0d795b6d0d795PostConfirmation": {
+          "GROUP": "anyone",
+          "deploymentBucketName": "amplify-changyema-dev-175922-deployment",
+          "s3Key": "amplify-builds/changyemab6d0d795b6d0d795PostConfirmation-684e78483855784c6c33-build.zip"
+        }
+      }
+    }
+  }
+}
